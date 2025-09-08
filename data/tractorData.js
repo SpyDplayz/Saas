@@ -1,4 +1,4 @@
-export const data = [
+export const tractorData = [
   {
   "sonalika_tractors_gujarat": {
     "less_than_30_hp": [
@@ -998,5 +998,5 @@ export const data = [
       }
     ]
   }
-}
-]
+  }
+];

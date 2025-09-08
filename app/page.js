@@ -1,4 +1,4 @@
-import { LandingPage } from '@/lib/LangingPage';
+import { LandingPage } from '@/app/products/LangingPage';
 import React from 'react';
 
 export default function Home() {
